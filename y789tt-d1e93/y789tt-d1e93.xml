@@ -106,8 +106,9 @@
             potentiam intentionalem pertinet ad genus causalitatis, quae soli enti reali
             conuenire potest. Unde 
             <app>
-              <lem>hymerae</lem>
+              <lem type="conjecture-corrected"><corr>chimaerae</corr></lem>
               <rdg wit="#D" type="variation-orthography">himerae</rdg>
+              <rdg wit="#M" type="variation-orthography">hymerae</rdg>
             </app>
             <!-- Maybe, I should write "chimaera". It is a standard writing, but none of the two manuscripts has it. -->
             et non-entia (si dantur distincta ab omni ente 
