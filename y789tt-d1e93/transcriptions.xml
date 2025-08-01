@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<transcriptions>
-	<transcription use-for-extraction="true">cod-r7yv7v_y789tt-d1e93.xml</transcription>
-</transcriptions>
+<?xml-model href="../../../tdf-schema/src/tdf-1-alt.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<list>
+  <manifestation>
+    <!-- born digital ukrainian transcription -->
+    <name>uk</name>
+    <title>Ukrainian</title>
+    <language>uk</language>
+    <transcriptions>
+      <transcription transcriptionDefault="true">
+        <type>translation</type>
+        <version versionDefault="true">
+          <hash>transcription</hash>
+          <versionNo n="0.0.0-dev">Version 0.0.0-dev</versionNo>
+          <url>uk_y789tt-d1e93.xml</url>
+        </version>
+      </transcription>
+    </transcriptions>
+  </manifestation>  
+</list>
