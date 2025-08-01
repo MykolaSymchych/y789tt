@@ -88,6 +88,8 @@
           <p xml:id="y789tt-d1e93-d1e149">
             <lb ed="#D" n="17"/><hi>Dicendum</hi> est Ens reale est illud, quod est motivum potentiae intentionalis. 
             <lb ed="#D" n="18"/>Ita Perez et eorum sequaces praesertim Princeps Philosophorum Morawski. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e156">
             <lb ed="#D" n="19"/><hi>Probatur</hi> communi illo quod scilicet haec definitio competat omni soli et semper suo definito. 
             <lb ed="#D" n="20"/><hi>Omni</hi> quia nullo est ens reale, quod per se vel per speciem sui nequeat movere ad cognitionem 
             <lb ed="#D" n="21"/>sui saltem intellectum, Quia est potentia in cognoscendo illimitata. <hi>Soli</hi> Quia 
@@ -134,7 +136,7 @@
             <lb ed="#D" n="21"/>Respondeo Absolutum dicitur explicari per relativum propter duas causas. Prima quando absolutum 
             <lb ed="#D" n="22"/>est maxime cognoscibile sed a sensibus remotissimum; et hoc modo Deum 
             <lb ed="#D" n="23"/>concipimus relate ad creaturas. Vel Etiam dum absolutum est minime cognoscibile, 
-            <lb ed="#D" n="24"/>et hoc modo concipimus materiam primam non nisi relate ad formas. Secunda <unclear>Dum</unclear> 
+            <lb ed="#D" n="24"/>et hoc modo concipimus materiam primam non nisi relate ad formas. Secunda <del rend="erasure" hand="#N1">Dum</del>
             Abso<lb ed="#D" break="no" n="25"/>lutum explicatur per respectivum, dum est per se notum, tunc enim debet explicari per ordinem 
             <lb ed="#D" n="26"/>ad aliquem actum experimentalem ut patet in albo et nigro propter has rationes etiam ens 
             <lb ed="#D" n="27"/>explicari debet per respectivum.
@@ -194,7 +196,7 @@
             cogno<lb ed="#D" n="23"/>sci per connotata similia, Ergo possunt cognosci per modum unius Sicut homo ut sic animal ut sic.
           </p>
           <p xml:id="y789tt-d1e93-d1e403">
-            <lb ed="#D" n="24"/>Obiicitur primo Quod Essentialiter dicit differentias, ergo non potest dari unus 
+            <lb ed="#D" n="24"/>Obiicitur primo Quod Essentialiter dicit differentias, eius non potest dari unus 
             conce<lb ed="#D" n="25"/>ptus, sed ens essentialiter dicit differentias Ergo entis non potest esse unus conceptus. Probatur minor Quia a 
             dif<lb ed="#D" n="26"/>ferentiis non potest praescindi ens, Alias etiam differentiae possunt praescindi ab ente. 
           </p>
@@ -212,7 +214,7 @@
           <p xml:id="y789tt-d1e93-d1e437">
             respondeo distinguo antecedens Quomodocunque concipiatur 
             <pb ed="#D" n="570-r"/>
-            <lb ed="#D" n="1"/>ens manebit indifferentiis ex parte obiecti concedo ex parte actus nego antecedens, sic distincto consequente 
+            <lb ed="#D" n="1"/>ens manebit in differentiis ex parte obiecti concedo ex parte actus nego antecedens, sic distincto consequente 
             <lb ed="#D" n="2"/>nego consequentiam.
           </p>
           <p xml:id="y789tt-d1e93-d1e444">
@@ -234,18 +236,24 @@
             <lb ed="#D" n="7"/>Praenoto ens transcendere formaliter differentias est ita in illis includi et imbibi ut 
             diffe<lb ed="#D" n="8"/>rentiae etiam abstractissime acceptae involvant rationem entis. Hinc animal hominis 
             <lb ed="#D" n="9"/>non transcendit formaliter rationale Quia ita potest depurari conceptus animalis ut 
-            <lb ed="#D" n="10"/>in illo non involvatur saltem ex partem actus conceptus rationalis. Hinc
+            <lb ed="#D" n="10"/>in illo non involvatur saltem ex parte actus conceptus rationalis. Hinc
           </p>
           <p xml:id="y789tt-d1e93-d1e483">
             <lb ed="#D" n="11"/>Dicendum primo in uno individuo omnia praediata sive inferiora sive 
-            superi<lb ed="#D" n="12"/>ora se mutuo transcendunt realiter, seu ex parte obiecti. Ratio quia transcendere realiter 
+            superi<lb ed="#D" n="12"/>ora se mutuo transcendunt realiter, seu ex parte obiecti. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e486">
+            Ratio quia transcendere realiter 
             <lb ed="#D" n="13"/>ex parte obiecti est esse identificatum realiter, sed omnia praedicata unius individui sunt 
             invi<lb ed="#D" n="14"/>cem identificata realiter, ut ratio entis, substantiae corporis viventis, animalis, hominis, 
             <lb ed="#D" n="15"/>patreitatis ergo etc:
           </p>
           <p xml:id="y789tt-d1e93-d1e497">
             <lb ed="#D" n="16"/>Dicendum secundo Genus superius transcendit formaliter species inferiores sibi 
-            im<lb ed="#D" n="17"/>mediate subiectas verbi gratia vivens speciem animalis. Ratio Quia transcendere
+            im<lb ed="#D" n="17"/>mediate subiectas verbi gratia vivens speciem animalis. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e499">
+            Ratio Quia transcendere
             forma<lb ed="#D" n="18"/>liter genus speciem est ita genus includi in specie, ut non possit inscribi species 
             <lb ed="#D" n="19"/>quin concipiatur genus. sed ita se res habet in specie subiecta immediate generi 
             <lb ed="#D" n="20"/>ut patet inductione ergo etc.
@@ -440,7 +448,7 @@
             <lb ed="#D" n="33"/>ab inferioribus nego. Explicatio patet.
           </p>
           <p xml:id="y789tt-d1e93-d1e855">
-            <pb ed="#D" n="572r"/>
+            <pb ed="#D" n="572-r"/>
             <lb ed="#D" n="1"/>Obiicitur secundo Nihil potest dici univoce de Deo et creaturis, Quia nihil 
             <lb ed="#D" n="2"/>potest esse commune Deo et creaturis. Ergo ens non potest esse Univocum respectu Dei et 
             <lb ed="#D" n="3"/>creaturae substantiae et accidentis
